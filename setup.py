@@ -9,7 +9,7 @@ setup(
     description='s3 log utils',
     long_description='s3 log utils',
 
-    url='https://github.com/xiachufang/s3-log',
+    url='https://github.com/Pandafisher/s3-log',
 
     # Author details
     author='Kebin',
