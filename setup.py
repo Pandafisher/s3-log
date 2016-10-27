@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name='s3_log',
 
-    version='0.0.1',
+    version='0.0.3',
 
     description='s3 log utils',
     long_description='s3 log utils',
